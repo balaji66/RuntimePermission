@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchingLocation</string>
+    <string name="Give_permission_to_Access_Location"> Give Permission To Access Location</string>
+</resources>
